@@ -1,4 +1,4 @@
-const API_URL = 'https://[YOUR_PYTHONANYWHERE_USERNAME].pythonanywhere.com/scrape';
+const API_URL = 'https://rtuber1231.pythonanywhere.com/scrapper';
 
 document.addEventListener('DOMContentLoaded', () => {
     const form = document.getElementById('scraperForm');
